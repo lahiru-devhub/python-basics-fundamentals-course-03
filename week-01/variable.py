@@ -74,3 +74,5 @@ student_age = 20 # Student age
 print(student_age)
 
 # TODO: add email validations rule
+
+# TODO: payment page
